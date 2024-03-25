@@ -1,0 +1,145 @@
+[
+  {
+  "_id": {
+    "$oid": "65faf117c6aee58b39dae162"
+  },
+  "owner": {
+    "$oid": "65f9a4e20cd070adc8bc397a"
+  },
+  "name": "Test Property1",
+  "type": "Test Property1",
+  "description": "1DEscription",
+  "location": {
+    "street": "1",
+    "city": "1",
+    "state": "1",
+    "zipcode": "1"
+  },
+  "beds": 3,
+  "baths": 3,
+  "square_feet": 1900,
+  "amenities": [
+    "Coffee Maker"
+  ],
+  "rates": {
+    "weekly": 1,
+    "monthly": 2000,
+    "nightly": 1
+  },
+  "seller_info": {
+    "name": "Test",
+    "email": "test@gmail.com",
+    "phone": "123"
+  },
+  "images": [
+    "https://res.cloudinary.com/propertypulse/image/upload/v1710944533/propertypulse/ngwxksbhsndjyug4uobd.jpg"
+  ],
+  "is_featured": false,
+  "createdAt": {
+    "$date": "2024-03-20T14:22:15.017Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-23T12:16:49.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fafa5da52a5618fd569247"
+  },
+  "owner": {
+    "$oid": "65faf95ebdf131811a8309a7"
+  },
+  "name": "RAnge",
+  "type": "RAnge",
+  "description": "1",
+  "location": {
+    "street": "1",
+    "city": "1",
+    "state": "1",
+    "zipcode": "1"
+  },
+  "beds": 3,
+  "baths": 3,
+  "square_feet": 1900,
+  "amenities": [
+    "Wifi",
+    "Full Kitchen",
+    "Washer & Dryer",
+    "Free Parking",
+    "24/7 Security",
+    "Dishwasher",
+    "Coffee Maker"
+  ],
+  "rates": {
+    "nightly": null,
+    "monthly": 2000,
+    "weekly": 111
+  },
+  "seller_info": {
+    "name": "Test",
+    "phone": "123",
+    "email": "test@gmail.com"
+  },
+  "images": [
+    "https://res.cloudinary.com/propertypulse/image/upload/v1710946906/propertypulse/qjzyaarv1c0ijylouzla.jpg",
+    "https://res.cloudinary.com/propertypulse/image/upload/v1710946907/propertypulse/a3lxuvbpc3qt7bbjhage.jpg",
+    "https://res.cloudinary.com/propertypulse/image/upload/v1710946908/propertypulse/amytttrydjgsc8jcenm9.jpg",
+    "https://res.cloudinary.com/propertypulse/image/upload/v1710946909/propertypulse/xb76zkkbkhxdkdisghqo.jpg"
+  ],
+  "is_featured": false,
+  "createdAt": {
+    "$date": "2024-03-20T15:01:49.680Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T15:01:49.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66017b76d814d318f5d53fc3"
+  },
+  "owner": {
+    "$oid": "65f9a4e20cd070adc8bc397a"
+  },
+  "name": "Tst",
+  "type": "Tst",
+  "description": "as",
+  "location": {
+    "street": "ddd",
+    "city": "ddd",
+    "state": "ddd",
+    "zipcode": "123123"
+  },
+  "beds": -1,
+  "baths": 1,
+  "square_feet": 1,
+  "amenities": [
+    "Wifi"
+  ],
+  "rates": {
+    "nightly": 300,
+    "monthly": 200,
+    "weekly": 100
+  },
+  "seller_info": {
+    "name": "name",
+    "phone": "-001111",
+    "email": "Email@gmail.com"
+  },
+  "images": [
+    "https://res.cloudinary.com/propertypulse/image/upload/v1711373171/propertypulse/cf9q5gptm4rlyrgovvcv.jpg",
+    "https://res.cloudinary.com/propertypulse/image/upload/v1711373172/propertypulse/fjfudwszbhhgrjg5rz02.jpg",
+    "https://res.cloudinary.com/propertypulse/image/upload/v1711373173/propertypulse/vov2qsadygd0rad71ndw.jpg",
+    "https://res.cloudinary.com/propertypulse/image/upload/v1711373173/propertypulse/lasn3hqii7ghm7nqfdkl.jpg"
+  ],
+  "is_featured": false,
+  "createdAt": {
+    "$date": "2024-03-25T13:26:14.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-25T13:26:14.062Z"
+  },
+  "__v": 0
+}]
