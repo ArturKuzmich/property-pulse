@@ -12,7 +12,7 @@ async function fetchProperties({ showFeatured = false } = {}) {
       `${apiDomain}/properties${showFeatured ? "/featured" : ""}`,
       { cache: "no-store" },
     );
-
+    console.log(res, "res");
     if (!res.ok) {
       throw new Error("Failed to fetch data");
     }
